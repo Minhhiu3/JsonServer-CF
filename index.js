@@ -1,6 +1,7 @@
 import jsonServer from "json-server";
 import auth from "json-server-auth";
 import cors from "cors";
+import auth from "json-server-auth";
 
 const { PORT = 3000 } = process.env;
 
